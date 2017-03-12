@@ -1,19 +1,19 @@
 ## Alex Jukes
 
-I can make your dreams come true with code.
+**I can make your dreams come true.**
 
 As someone who's deeply interested in the relationship between ideas and reality, it's no surprise that I enjoy coding so much. Code is abstract, mathematical, and logical; but it is also practical, imperfect, and mutable. It bridges the gap between imagination and the real world.
 
 Throughout my career, I have striven to bridge that gap myself. Whether providing strategy for start-up that failed, pivoted, and then successfully raised over [$3 million in seed funding](https://techcrunch.com/2017/01/31/radish-seed-funding/), managing the development of an [internationally acclaimed artist's studio](http://www.nicolagreen.com/) or producing in depth research for a [global Public Relations firm](http://www.edelman.com/), turning abstract concepts into concrete reality has been the core of my professional experience.
 
-In recent years, I have begun to understand how powerful a tool coding can be for translating ideas into something real. I have taught myself HTML, CSS, and a little bit of PHP and Javascript to actualise clients' ideas for their businesses and brands by creating websites as a freelance web designer and developer. You can see some the sites I've worked on here:
+In recent years, I have begun to understand how powerful a tool coding can be for translating ideas into something real. I have taught myself HTML, CSS, and some PHP and Javascript to actualise clients' ideas for their businesses and brands by creating websites as a freelance web designer and developer. You can see some the sites I've worked on here:
 
-[www.claribellondon.com](www.claribellondon.com)
-[www.make-entertainment.com](www.make-entertainment.com)
-[www.makewaves.media](www.makewaves.media)
-[www.boyeatsworld.com](www.makewaves.media)
+- [www.claribellondon.com](www.claribellondon.com)
+- [www.make-entertainment.com](www.make-entertainment.com)
+- [www.makewaves.media](www.makewaves.media)
+- [www.boyeatsworld.com](www.makewaves.media)
 
- Now, as a full stack Ruby developer, I now have a powerful toolkit which I aim to combine with my communication, interpersonal and strategy skills to make a positive impact in the world. I'm looking for an engaging, creative and socially responsible role that will be a bridge for me to realise that dream.
+ Now, as a full stack Ruby developer, I now have a powerful toolkit which I aim to combine with my communication, interpersonal and strategy skills to make a positive impact in the world. I'm looking for an engaging, creative and socially responsible role that will make this a reality.
 
 ## Skills
 
@@ -27,17 +27,23 @@ Communicating an idea is the first step towards making it a reality. I help make
 
 #### Strategy
 
-A good idea without a good plan behind it is doomed to fail. At Byline Media, at the time the world's largest crowd-funded journalism site, I saw first hand that a great concept is no guarantee of success. Despite the noble aim of finding a new payment model for journalism and some amazing projects getting funded, the site was not making enough money to survive.
+A good idea without a good plan behind it is doomed to fail. At Byline Media, the world's largest crowd-funded journalism site at the time, I saw first hand that a great concept is no guarantee of success. Despite the noble aim of finding a new payment model for journalism and some amazing projects getting funded, the site was not making enough money to survive.
 
-The pivot towards serial fiction was the CEO's decision; my role was to ensure the strategy to achieve this was in place, and that the mistakes of Byline Media were avoided. By translating this vision into a coherent business strategy with actionable points, decision making on a day to day basis could feed directly into the overall ambition of the company. One of the key strategic decisions I pushed for was to make the writer the focus of our outreach efforts. This included establishing and managing the Radish Editorial Service, which provides free editing for writers on the platform and which has now become a core part of the company's business model, as well as writing a regular weekly newsletter dedicated to writers, providing updates and making them feel like an integral part of the Radish project.
+The pivot towards serial fiction was the CEO's decision; my role was to ensure the strategy to achieve this was in place, and that the mistakes of Byline Media were avoided. By translating this vision into a coherent business strategy with actionable points, decision making on a day to day basis could feed directly into the overall ambition of the company. One of the key strategic decisions I pushed for was to make the writer the focus of our outreach efforts. This included writing onboarding materials for new writers, establishing and managing the Radish Editorial Service, which provides free editing for writers on the platform (and which has now become a core part of the company's business model), as well as writing a regular weekly newsletter dedicated to writers, providing updates and making them feel like an integral part of the Radish project. These were vital for acquiring and retaining writers on the platform.
 
-To date, Radish has raised $3 million dollars in seed funding without spending a penny on advertising or marketing. Its 250,000+ users have all come from organic growth driven by writers joining the platform and bringing their readers with them. In this light, it's easy to see how a good idea coupled with a simple strategy can make a big difference.
+To date, Radish has raised $3 million dollars in seed funding without spending a penny on advertising or marketing. Its 250,000+ users have all come from organic growth driven by writers joining the platform and bringing their readers with them. If money is real, this strategy saved a lot of it.
 
 #### Interpersonal
 
-Excellent interpersonal skills have been fundamental to my career. The reason that my web design clients chose me, and gave me return business, was not because I was the most talented web designer in the world; it was because they felt they could easily talk to me, that I 'got' what they wanted, and they enjoyed working with me.
+No man is an island. If we want to effect change in the world, we need other people to achieve it. That's why strong interpersonal skills have been so essential to my career success to date.
 
-As Head of Content Strategy for Radish Fiction and Byline Media, a core part of my role was developing relationships with with writers: explaining how our platform worked, getting them on-boarded and making them feel like valued members of the community. It's not a coincidence that the most successful writers on both platforms, including an academic raising $100,000 for a hospital in Gaza on Byline and a previously unpublished author now earning $120k annualised revenue through Radish, were personally on-boarded and overseen by me. With big talent often comes big ego, and the CEO knew he could rely on me to deal with these writers and balance their happiness on the platform with the interests of the company.
+As a rookie freelance we designer and developer, I couldn't rely on a wealth of technical experience to guarantee clients. Instead, it was my ability to make a client feel that I understood exactly what they wanted, that I was approachable and friendly, and above all that I was honest and upfront about my own strengths and weaknesses that gained me clients and earned me repeat business. When it comes to the experience I try to provide for clients, sometimes they can express it better than I can:
+
+*"We are thrilled and it has been painless, which is not normally the way."*
+
+                                      - Sarah MacDonald, Founding Director of [Make Waves Media](www.makewaves.media)
+
+As Head of Content Strategy for Radish Fiction and Byline Media, I dealt directly with everyone from the CEO to anonymous users, but the core part of my role was developing relationships with with writers: explaining how our platform worked, getting them on-boarded and making them feel like valued members of the community. It's not a coincidence that the most successful writers on both platforms, including an academic raising $100,000 for a hospital in Gaza on Byline and a previously unpublished author now earning $120k annualised revenue through Radish, were personally on-boarded and overseen by me. With big talent often comes big ego, and the CEO knew he could rely on me to deal with these writers and balance their happiness on the platform with the interests of the company.
 
 ## Education
 
@@ -60,6 +66,7 @@ Skills include:
 #### St. Hugh's College, Oxford (October 2009 to June 2012)
 
 - History, BA (Hons), 2.1
+- Distinction for dissertation on the concept of Orientalism in the writings of 19th-century explorers
 - President of the History Society
 - Captained St Hugh's College 3rd's Football Team to League title and promotion
 
