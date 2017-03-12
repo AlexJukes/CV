@@ -1,6 +1,6 @@
 ## Alex Jukes
 
-**I can make your dreams come true.**
+**I make your ideas a reality.**
 
 As someone who's deeply interested in the relationship between ideas and reality, it's no surprise that I enjoy coding so much. Code is abstract, mathematical, and logical; but it is also practical, imperfect, and mutable. It bridges the gap between imagination and the real world.
 
@@ -8,10 +8,10 @@ Throughout my career, I have striven to bridge that gap myself. Whether providin
 
 In recent years, I have begun to understand how powerful a tool coding can be for translating ideas into something real. I have taught myself HTML, CSS, and some PHP and Javascript to actualise clients' ideas for their businesses and brands by creating websites as a freelance web designer and developer. You can see some the sites I've worked on here:
 
-- [www.claribellondon.com](www.claribellondon.com)
-- [www.make-entertainment.com](www.make-entertainment.com)
-- [www.makewaves.media](www.makewaves.media)
-- [www.boyeatsworld.com](www.makewaves.media)
+- [www.claribellondon.com](https:www.claribellondon.com)
+- [www.make-entertainment.com](http:www.make-entertainment.com)
+- [www.makewaves.media](http:www.makewaves.media)
+- [www.boyeatsworld.com](http:www.makewaves.media)
 
  Now, as a full stack Ruby developer, I now have a powerful toolkit which I aim to combine with my communication, interpersonal and strategy skills to make a positive impact in the world. I'm looking for an engaging, creative and socially responsible role that will make this a reality.
 
@@ -76,14 +76,23 @@ Skills include:
 **Radish Fiction / Byline Media** (July 2015 to February 2017)    
 *Head of Content Strategy*  
 As part of a rapidly expanding online serial fiction app, I was responsible for bridging the gap between the content and product teams. Whether that was talking to writers and users to craft coherent content strategies, or using analytics to create product feature proposals, I had my feet in both camps. It also meant I was well placed to communicate the corporate vision and brand identity through multiple online channels.
+
 **Freelance** (June 2014 to present)   
 *Web Designer and Developer*  
+
+- [www.claribellondon.com](https:www.claribellondon.com)
+- [www.make-entertainment.com](http:www.make-entertainment.com)
+- [www.makewaves.media](http:www.makewaves.media)
+- [www.boyeatsworld.com](http:www.makewaves.media)
+
 **CREATE Fertility** (May 2015 to July 2015)   
 *Digital Marketing Executive*  
 Part time position that required excellent copy writing and graphic design skills as part of an online marketing campaign for one of London’s most successful fertility clinics. Role required designing visual and textual elements for online advertising banners and pop ups, as well as contributing to a major site redesign for CREATE Health that saw a 200% increase in key target conversion metrics. Also edited articles for display on the website and managed social media channels to effectively promote the CREATE brand.
+
 **Edelman** (April 2013 to July 2013)   
 *Research Assistant*  
 Full time employment as research assistant for the Matter team in the London branch of PR company Edelman, originally hired on a two week contract which was extended a further 2 months based on performance. Role involved providing research and technical support for a variety of projects, such as creating a comprehensive PESTLE analysis of South Korea as part of an advisory document for the PyeongChang 2018 Winter Olympic Games Committee.
+
 **Studio of Nicola Green** (June 2014 to present)   
 *Development Manager*  
 Full time employment as at the studio of artist Nicola Green in Finsbury Park, London. Responsible for the day to day management of a small but dynamic and expanding art studio, liaising with high profile clients, drafting press releases, and being responsible for interviewing and hiring staff. Role also involved re-designing and maintained studio website, researching subjects for artistic projects as well as designing and editing visual and textual content for the exhibition of 'In Seven Days...' at the Walker Art Gallery, Liverpool.
