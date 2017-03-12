@@ -41,7 +41,7 @@ As a rookie freelance we designer and developer, I couldn't rely on a wealth of 
 
 > "We are thrilled and it has been painless, which is not normally the way."
 
-<p style="text-align: right;"> Sarah MacDonald, Founding Director of <a href="http://www.makewaves.media">Make Waves Media</a></p>
+<p style="text-align: right;"><em> - Sarah MacDonald, Founding Director of <a href="http://www.makewaves.media">Make Waves Media</a></em></p>
 
 As Head of Content Strategy for Radish Fiction and Byline Media, I dealt directly with everyone from the CEO to anonymous users, but the core part of my role was developing relationships with with writers: explaining how our platform worked, getting them on-boarded and making them feel like valued members of the community. It's not a coincidence that the most successful writers on both platforms, including an academic raising $100,000 for a hospital in Gaza on Byline and a previously unpublished author now earning $120k annualised revenue through Radish, were personally on-boarded and overseen by me. With big talent often comes big ego, and the CEO knew he could rely on me to deal with these writers and balance their happiness on the platform with the interests of the company.
 
