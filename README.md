@@ -8,10 +8,12 @@ Throughout my career, I have striven to bridge that gap myself. Whether providin
 
 In recent years, I have begun to understand how powerful a tool coding can be for translating ideas into something real. I have taught myself HTML, CSS, and some PHP and Javascript to actualise clients' ideas for their businesses and brands by creating websites as a freelance web designer and developer. You can see some the sites I've worked on here:
 
-- [www.claribellondon.com](https://www.claribellondon.com)
-- [www.make-entertainment.com](http://www.make-entertainment.com)
-- [www.makewaves.media](http://www.makewaves.media)
-- [www.boyeatsworld.com](http://www.makewaves.media)
+<p style ="text-align: center;">
+[www.claribellondon.com](https://www.claribellondon.com)
+[www.make-entertainment.com](http://www.make-entertainment.com)
+[www.makewaves.media](http://www.makewaves.media)
+[www.boyeatsworld.com](http://www.makewaves.media)
+</p>
 
 Now, as a full stack Ruby developer, I now have a powerful toolkit which I aim to combine with my communication, interpersonal and strategy skills to make a positive impact in the world. I'm looking for an engaging, creative and socially responsible role that will make this a reality.
 
