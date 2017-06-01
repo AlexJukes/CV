@@ -70,11 +70,14 @@ Skills include:
 ## <a name="experience"> Experience </a>
 
 **[Radish Fiction](https://www.radishfiction.com/) / [Byline Media](https://www.byline.com/)** (July 2015 to February 2017)  
+
 *Head of Content Strategy*  
 
 As part of a rapidly expanding online serial fiction app, I was responsible for bridging the gap between the content and product teams. Whether that was talking to writers and users to craft coherent content strategies, or using analytics to create product feature proposals, I had my feet in both camps. It also meant I was well placed to communicate the corporate vision and brand identity through multiple online channels.
 
+
 **Freelance** (June 2014 to present)   
+
 *Web Designer*  
 
 Self taught web design while based in Melbourne, Australia and London, UK.
@@ -84,17 +87,23 @@ Self taught web design while based in Melbourne, Australia and London, UK.
 - [www.makewaves.media](http:www.makewaves.media)
 - [www.boyeatsworld.com](http:www.boyeatsworld.com)
 
+
 **CREATE Fertility** (May 2015 to July 2015)   
+
 *Digital Marketing Executive*
 
 Part time role creating web content and design elements, as well as consulting on site redesign that increased conversion rates by over 200%.
 
+
 **Edelman** (April 2013 to July 2013)   
+
 *Research Assistant*  
 
 Researched and delivered comprehensive PESTLE report for the PyeongChang 2018 Winter Olympic Games Committee.
 
+
 **Studio of Nicola Green** (June 2014 to present)
+
 *Development Manager*  
 
 Responsible for day to day management of the art studio of internationally acclaimed artist Nicola Green in Finsbury Park, London.
