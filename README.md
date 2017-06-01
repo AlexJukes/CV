@@ -99,7 +99,7 @@ Part time role creating web content and design elements, as well as consulting o
 Researched and delivered comprehensive PESTLE report for the PyeongChang 2018 Winter Olympic Games Committee.
 
 **Studio of Nicola Green** (June 2014 to present)
-  
+
 *Development Manager*  
 
 Responsible for day to day management of the art studio of internationally acclaimed artist Nicola Green in Finsbury Park, London.
@@ -107,4 +107,4 @@ Responsible for day to day management of the art studio of internationally accla
 
 ## <a name="contact"> Contact  </a>
 
-Don't hesitate to get in touch with me  on [LinkedIn](https://www.linkedin.com/in/alex-jukes/) if you're looking for a passionate, enthused and dedicated Junior Developer with a commitment to Software Craftsmanship!
+Don't hesitate to get in touch with me  on [LinkedIn](https://www.linkedin.com/in/alex-jukes/) if you're looking for a Junior Developer with a passion for big ideas, love of technology and a commitment to Software Craftsmanship!
