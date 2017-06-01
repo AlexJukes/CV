@@ -4,7 +4,7 @@
 
 As someone who passionately believes that big ideas can change the world, it's no surprise that I'm passionate about coding. Through code, abstract concepts become practical applications, translating our ideas into reality and changing people's lives.
 
-As a student at [Makers Academy](http://www.makersacademy.com/), I gained an incredible grounding in the fundamental principles of good software design, and learned not just how to code, but more importantly _how to learn how to code_. For our final project these skills, combined with my passion for ideas and technology, led my team and I to create an application that used blockchain technology as the basis for a [simple proto-society](https://github.com/UltimateCoder00/Makers-Society), including it's own crypto-currency and voting system.
+As a student at [Makers Academy](http://www.makersacademy.com/), I gained an incredible grounding in the fundamental principles of good software design, and learned not just how to code, but more importantly _how to learn how to code_. For our final project these skills, combined with my passion for ideas and technology, led my team and I to create an application that used blockchain technology as the basis for a [simple proto-society](https://github.com/UltimateCoder00/Makers-Society), including its own crypto-currency and voting system.
 
  I'm now looking to continue my journey in software development in a role where I can learn and grow both as a developer and as an individual, with a focus on Software Craftsmanship and XP values in a positive and inclusive workplace.
 
@@ -27,7 +27,7 @@ All projects listed in chronological order to demonstrate the progress made over
 
 #### Communication
 
-Communication is fundamental to any good software design. Whether communicating with clients to understand the needs of the product, communicating with your team to conceive and create that product, or communicating the decisions and processes that shaped it to future developers through the design of the code itself, communication is the first step towards making an idea a reality. There's a reason they're called programming _languages_, after all.
+Communication is fundamental to any good software design. Whether communicating with clients to understand the needs of the product, communicating with your team to conceive and create that product, or communicating the decisions and processes that shaped it to future developers through the design of the code itself, communication is the first step towards making an idea a reality.
 
 With a background as Head of Content Strategy for the successful start-up [Radish Fiction](https://www.radishfiction.com/) and experience as a freelance web designer, I have the ability to communicate ideas about technology to hundreds of thousands of users or individual clients in written, verbal and visual form.
 
@@ -35,7 +35,7 @@ With a background as Head of Content Strategy for the successful start-up [Radis
 
 Pair programming was at the core of the Makers Academy curriculum, and I relished the opportunity to work with others and write code together. I quickly realised that just as everyone is unique, so too is the way they code. Embracing challenging personalities and difficult feedback as sources of learning and growth rather than fear and apprehension is probably one of the most valuable skills I learned at Makers Academy.
 
-I already had a good grounding though. at Radish Fiction I was personally responsible for on-boarding and managing the most successful writer on the platform, among many others, with the CEO trusting that I could handle the egos that come with talent. As a rookie freelance web designer and developer, I couldn't rely on a wealth of technical experience to guarantee clients. Instead, it was my ability to make a client feel that I understood exactly what they wanted, that I was approachable and friendly, and above all that I was open to receiving feedback on how to improve that earned me regular work.
+I already had a good grounding though. At Radish Fiction I was personally responsible for on-boarding and managing the most successful writer on the platform, among many others, with the CEO trusting that I could handle the egos that come with talent. As a freelance web designer and developer, maintaining good relationships with clients was paramount for earning repeat business.
 
 > "We are thrilled and it has been painless, which is not normally the way."
 
@@ -64,17 +64,10 @@ Skills include:
 - History, BA (Hons), 2.1
 - Received a distinction for my dissertation exploring the concept of Orientalism in the writings of 19th-century Middle-Eastern explorers
 - President of the History Society
-- Captained St Hugh's College 3rd's Football Team.
+- Captained St Hugh's College 3rd's Football Team
 
 
 ## <a name="experience"> Experience </a>
-
-**[Radish Fiction](https://www.radishfiction.com/) / [Byline Media](https://www.byline.com/)** (July 2015 to February 2017)  
-
-*Head of Content Strategy*  
-
-As part of a rapidly expanding online serial fiction app, I was responsible for bridging the gap between the content and product teams. Whether that was talking to writers and users to craft coherent content strategies, or using analytics to create product feature proposals, I had my feet in both camps. It also meant I was well placed to communicate the corporate vision and brand identity through multiple online channels.
-
 
 **Freelance** (June 2014 to present)   
 
@@ -86,6 +79,17 @@ Self taught web design while based in Melbourne, Australia and London, UK.
 - [www.make-entertainment.com](http:www.make-entertainment.com)
 - [www.makewaves.media](http:www.makewaves.media)
 - [www.boyeatsworld.com](http:www.boyeatsworld.com)
+
+> "I’ve won a stack of awards for the site since you worked your magic."
+
+<p style="text-align: right;"><em> - Aleney de Winter, writer and creator of <a href="http://boyeatsworld.com.au/">Boy Eats World</a></em></p>
+
+
+**[Radish Fiction](https://www.radishfiction.com/) / [Byline Media](https://www.byline.com/)** (July 2015 to February 2017)  
+
+*Head of Content Strategy*  
+
+As part of a rapidly expanding online serial fiction app, I was responsible for bridging the gap between the content and product teams. Whether that was talking to writers and users to craft coherent content strategies, or using analytics to create product feature proposals, I had my feet in both camps. It also meant I was well placed to communicate the corporate vision and brand identity through multiple online channels.
 
 
 **CREATE Fertility** (May 2015 to July 2015)   
@@ -102,7 +106,7 @@ Part time role creating web content and design elements, as well as consulting o
 Researched and delivered comprehensive PESTLE report for the PyeongChang 2018 Winter Olympic Games Committee.
 
 
-**Studio of Nicola Green** (June 2014 to present)
+**Studio of Nicola Green** (June 2012 to March 2013)
 
 *Development Manager*  
 
