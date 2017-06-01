@@ -4,7 +4,7 @@
 
 As someone who passionately believes that big ideas can change the world, it's no surprise that I'm passionate about coding. Through code, abstract concepts become practical applications, translating our ideas into reality and changing people's lives.
 
-As a student at [Makers Academy](http://www.makersacademy.com/), I gained an incredible grounding in the fundamental principles of good software design, and learned not just how to code, but more importantly _how to learn how to code_. For our final project these skills, combined with my passion for ideas and technology, led my team and I to create an application that used blockchain technology as a basis for a [simple proto-society](#society), including it's own crypto-currency and voting system.
+As a student at [Makers Academy](http://www.makersacademy.com/), I gained an incredible grounding in the fundamental principles of good software design, and learned not just how to code, but more importantly _how to learn how to code_. For our final project these skills, combined with my passion for ideas and technology, led my team and I to create an application that used blockchain technology as the basis for a [simple proto-society](#society), including it's own crypto-currency and voting system.
 
  I'm now looking to continue my journey in software development in a role where I can learn and grow both as a developer and as an individual, with a focus on Software Craftsmanship and XP values in a positive and inclusive workplace.
 
@@ -20,7 +20,7 @@ All projects listed in chronological order to demonstrate the progress made over
  | [Chitter Challenge](https://github.com/AlexJukes/chitter-challenge) | A Sinatra-based Twitter clone called Message in a Bottle, where users can post messages ('bottles') in the hope that other lonely souls will see them. | Ruby, Sinatra, PSQL, OOD, TDD|
  | [Instagram Challenge](https://github.com/AlexJukes/instagif) | A Rails-based Instagram-y clone called Instagif, which uses the GIPHY API to allow users to generate gifs based on the users input. | Ruby, Rails, OOD, TDD, PSQL, GIPHY API|
  | [Beatroute](https://github.com/AlexJukes/beatroute) | Single page web application which enables a user to generate a Spotify playlist based on the country selection of their choice. | JavaScript, jQuery, Node JS, APIs, OOD, TDD|
- |<a name="#society"></a> [Makers Society](https://github.com/AlexJukes/rps-challenge) | An Ethereum-based blockchain application that allows citizens to send native crypto-currency to other members and vote in a participatory democracy. | Ethereum, Solidity, Truffle, Mocha/Chai, Node JS, React, MetaMask |
+ |<a name="#society"> [Makers Society](https://github.com/UltimateCoder00/Makers-Society)</a> | An Ethereum-based blockchain application that allows citizens to send native crypto-currency to other members and vote in a participatory democracy. | Ethereum, Solidity, Truffle, Mocha/Chai, Node JS, React, MetaMask |
 
 
 ## <a name="skills"> Skills </a>
