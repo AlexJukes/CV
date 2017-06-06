@@ -87,7 +87,7 @@ Self taught web design while based in Melbourne, Australia and London, UK.
 - [www.claribellondon.com](http:www.claribellondon.com)
 - [www.make-entertainment.com](http:www.make-entertainment.com)
 - [www.makewaves.media](http:www.makewaves.media)
-- [www.boyeatsworld.com](http:www.boyeatsworld.com)
+- [www.boyeatsworld.com](http:www.boyeatsworld.com.au)
 
 > "I’ve won a stack of awards for the site since you worked your magic."
 
