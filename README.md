@@ -34,11 +34,11 @@ With a background as Head of Content Strategy for the successful start-up [Radis
 
 #### Independent Learning
 
-Makers Academy, Oxford University, and becoming a self-taught Web Designer all required one key fundamental trait - the ability to learn new concepts and techniques quickly and independently. Makers pride themselves less on teaching people how to code than how to learn how to code: in other words, how to think about problems and reach solutions independently and as part of a team rather than being given the answers.
+Makers Academy, Oxford University, and becoming a self-taught Web Designer all required one key fundamental trait - the ability to learn new concepts and techniques quickly and independently. Makers pride themselves less on teaching people how to code than _how to learn_ how to code. In other words, teaching one how to think about problems and reach solutions both independently and as part of a team, rather than being spoon-fed the answers.
 
-The same philosophy was present during my undergraduate experience reading History at St Hugh's College, Oxford, where we would be expected to produce well-researched essays on brand new topics within a few days. The fact that I achieved the highest mark for a dissertation in my college is evidence of the fact that when left to research and understand a topic independently, I can understand and synthesise new information effectively.
+The same philosophy was present during my undergraduate experience reading History at St Hugh's College, Oxford, where we would be expected to produce well-researched essays on brand new topics within a few days. Receiving the highest mark for a dissertation in my college demonstrates that when left to research and understand a topic independently, I can understand, synthesise and present new information and ideas effectively.
 
-These skills were just as vital when it came to teaching myself HTML, CSS and some PHP and JavaScript in order to get paid work as a Freelance Web Designer. My success in all three fields is a result of my ability to pick up new ideas quickly, apply them intelligently and, most importantly, being able to ask the right questions when I don't have the answers.
+These skills were just as vital when it came to teaching myself HTML, CSS as well as some PHP and JavaScript in order to get paid work as a Freelance Web Designer. My success in all three fields is a result of my ability to pick up new ideas quickly, apply them intelligently and, most importantly, being able to ask the right questions when I don't have the answers.
 
 #### Interpersonal
 
