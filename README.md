@@ -20,6 +20,7 @@ All projects listed in chronological order to demonstrate the progress made over
  | [Chitter Challenge](https://github.com/AlexJukes/chitter-challenge) | A Sinatra-based Twitter clone called Message in a Bottle, where users can post messages ('bottles') in the hope that other lonely souls will see them. | Ruby, Sinatra, PSQL, OOD, TDD|
  | [Instagram Challenge](https://github.com/AlexJukes/instagif) | A Rails-based Instagram clone called Instagif, which uses the GIPHY API to allow users to generate gifs based on the users input. | Ruby, Rails, OOD, TDD, PSQL, GIPHY API|
  | [Beatroute](https://github.com/AlexJukes/beatroute) | Single page web application which enables a user to generate a Spotify playlist based on the country selection of their choice. | JavaScript, jQuery, Node JS, APIs, OOD, TDD|
+ | [Gilded Rose Kata](https://github.com/AlexJukes/GildedRose-Refactoring-Kata) | A Ruby solution to The Gilded Rose kata, refactoring a client's legacy code to preserve existing functionality and allow for simple extendability. | Ruby, OOD, TDD |
  | [Makers Society](https://github.com/UltimateCoder00/Makers-Society) | An Ethereum-based blockchain application that allows citizens to send native crypto-currency to other members and vote in a participatory democracy. | Ethereum, Solidity, Truffle, Mocha/Chai, Node JS, React, MetaMask |
 
 
@@ -30,6 +31,10 @@ All projects listed in chronological order to demonstrate the progress made over
 Communication is fundamental to any good software design. Whether communicating with clients to understand the needs of the product, communicating with your team to conceive and create that product, or communicating the decisions and processes that shaped it to future developers through the design of the code itself, communication is the first step towards making an idea a reality.
 
 With a background as Head of Content Strategy for the successful start-up [Radish Fiction](https://www.radishfiction.com/) and experience as a freelance web designer, I have the ability to communicate ideas about technology to hundreds of thousands of users or individual clients in written, verbal and visual form.
+
+#### Independent Learning
+
+Makers Academy, Oxford University, and becoming a self-taught Web Designer all required one key fundamental trait - the ability to learn new concepts and techniques quickly and independently. Makers pride themselves less on teaching people how to code than how to learn how to code: in other words, how to think about problems and reach solutions independently and as part of a team rather than being given the answers. The same philosophy was present during ,y undergraduate experience reading History at St Hugh's College, Oxford, where we would be expected to produce well-researched essays on brand new topics within a few days. The fact that I achieved the highest mark for a dissertation in my college is evidence of the fact that when left to research and understand a topic independently, I can understand and synthesise new information effectively. These skills were just as vital when it came to teaching myself HTML, CSS and some PHP and JavaScript in order to get paid work as a Freelance Web Designer. My success in all three fields is a result of my ability to pick up new ideas quickly, apply them intelligently and, most importantly, being able to ask the right questions when I don't have the answers.
 
 #### Interpersonal
 
