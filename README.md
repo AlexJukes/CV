@@ -2,11 +2,18 @@
 
 [Skills](#skills) | [Makers Academy Projects](#makers_projects)| [Education](#education) | [Experience](#experience) | [Contact](#contact)
 
-As someone who passionately believes that big ideas can change the world, it's no surprise that I'm passionate about coding. Through code, abstract concepts become practical applications, translating our ideas into reality and changing people's lives.
+As someone who passionately believes that big ideas can change the world, it's no surprise that I'm passionate about coding. Through code, abstract concepts become practical applications, translating our ideas into reality and changing peoples' lives.
 
-As a student at [Makers Academy](http://www.makersacademy.com/), I gained an incredible grounding in the fundamental principles of good software design, and learned not just how to code, but more importantly _how to learn how to code_. For our final project these skills, combined with my passion for ideas and technology, led my team and I to create an application that used blockchain technology as the basis for a [simple proto-society](https://github.com/UltimateCoder00/Makers-Society), including its own crypto-currency and voting system.
+As a student at [Makers Academy](http://www.makersacademy.com/), I gained an incredible grounding in the fundamental principles of good software design, and learned not just how to code, but more importantly _how to learn how to code_. By the end of the course, I had learnt an entirely new language and technology to write and fully TDD a functioning [Ethereum blockchain application](https://github.com/UltimateCoder00/Makers-Society) within the space of 10 days. It's meant that as a Junior Developer at Softwire, I could start writing production code from day 1 of being put on a project, and was productive enough to be billable to the client in under 2 months. And when stepping in to be a coach for new learners joining the Softwire apprenticeship scheme, I was able to apply those OOD principles to a new language, C#, and break down the important concepts effectively enough to successfully coach students with their learning as well as contribute to course materials.
 
  I'm now looking to continue my journey in software development in a role where I can learn and grow both as a developer and as an individual, with a focus on Software Craftsmanship and XP values in a positive and inclusive workplace.
+
+ ## <a name="pro_projects">Professional Projects</a>
+
+ | Project | Summary | Technologies |
+ |----------|----------|----------|
+ | [HushKeys](https://hushkeys.com/) | Social media Progressive Web Application, where users can conceal and reveal content based on what permissions ('keys') they have access to. | React, Redux, TypeScript, Jest, Node.js |
+ | [Corndel Apprenticeship Scheme](https://www.corndel.com/software-engineering-academy/) | Coaching students through a software apprenticeship scheme, focused on .NET applications and Clean Code principles | C#, ASP.NET Web API, MVC, MySQL |
 
 
 ## <a name="makers_projects">Makers Academy Projects</a>
