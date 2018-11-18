@@ -34,7 +34,7 @@ I also started and regularly facilitate a weekly meditation session open to all 
 
 #### Communication
 
-Good communication in software engineering comes in may forms. Whether it's the solid grounding in Emotional Intelligence and XP programming principles I learned at Makers, the Foundation Qualification in Non-Violent Communication I've gained in my spare time, or a strong sense of clean and readable code being at the core of my development practice, the ability to communicate with others has been crucial to my career so far. As a result, I've been able to work effectively with other engineers, listen and engage with colleagues and users, and write code that creates value while making sense.
+Good communication in software engineering comes in many forms. Whether it's the solid grounding in Emotional Intelligence and XP programming principles I learned at Makers, the Foundation Qualification in Non-Violent Communication I've gained in my spare time, or a strong sense of clean and readable code being at the core of my development practice, the ability to communicate with others has been crucial to my career so far. As a result, I've been able to work effectively with other engineers, listen and engage with colleagues and users, and write code that creates value while making sense.
 
 Before becoming a software engineer, at Radish Fiction I was personally responsible for on-boarding and managing the most successful writer on the platform, among many others, with the CEO trusting that I could handle the egos that come with talent. As a freelance web designer and developer, maintaining good relationships with clients was paramount for earning repeat business.
 
