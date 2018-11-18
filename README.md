@@ -1,6 +1,6 @@
 ## Alex Jukes
 
-[Softwate Experience](#software_experience) | [Skills](#skills) | [Personal Projects](#personal_projects) | [Makers Academy Projects](#makers_projects)  [Education](#education) | [Professional Experience](#pro_experience) | [Contact](#contact)
+[Software Experience](#software_experience) | [Skills](#skills) | [Personal Projects](#personal_projects) | [Makers Academy Projects](#makers_projects) | [Education](#education) | [Professional Experience](#pro_experience) | [Contact](#contact)
 
 As someone who passionately believes that big ideas can change the world, it's no surprise that I'm passionate about coding. Through code, abstract concepts become practical applications, translating our ideas into reality and changing peoples' lives.
 
@@ -17,6 +17,31 @@ In my first role as a Junior Developer at [Softwire](https://www.softwire.com/),
  | [TES](https://www.tes.com)| Associate Engineer | November 2017- Present | Developed new internal advertising tool from the ground up, which now serves over a million campaigns a day to users. | React, Redux,  Node.js, MySQL, GraphQL, React Native |
  | [Softwire](https://www.softwire.com/) | Junior Developer | June 2017 - November 2017  | Part of a full stack web development team creating a progressive web version of a successful new social media iOS application. | React, Redux, TypeScript, Jest, Node.js |
  | [Makers Academy](http://www.makersacademy.com/) | Student | February 2017 - June 2017  | Intensive coding bootcamp focusing on software craftsmanship and XP Programming principles. | Ruby, Javascript, Ruby on Rails, React |
+
+## <a name="skills"> Skills </a>
+
+#### Innovation
+
+While at TES, I have consistently advocated for new ideas and technology, and haven't been afraid to question existing implementations. After doing extensive research, experiementing with the technology in my free time, and making a detailed case to my team, I was able to successfully lobby to move from a Redux Saga and Redux Form frontend to a GraphQL and Apollo Client, which we estimate will remove over 2000 lines of code from our frontend codebase. I have also won multiple TES hackdays, including a project that added a feature to the TES Jobs Mobile app which saw a 30% increase in DAU day on day for the first week after implementation.
+
+While at Makers Academy, I successfully pitched and led a team to create [Makers Society](https://github.com/UltimateCoder00/Makers-Society), an Ethereum based blockchain application which allowed citizens to irrevocably sign a societal manifesto, send native crypto-currency to other members and vote in a participatory democracy.
+
+#### Ownership
+
+I take pride in my work, and the work of my team, and I'm always ready to help users understand and use our products better. That's why within 6 months of joining TES I was made Project Parent of my team, making me responsible for creating and managing our team's tickets, running retros, and being the bridge between the engineers, the product manager and the users of our application.
+
+I also started and regularly facilitate a weekly meditation session open to all members of the TES company.
+
+#### Communication
+
+Good communication in software engineering comes in may forms. Whether it's the solid grounding in Emotional Intelligence and XP programming principles I learned at Makers, the Foundation Qualification in Non-Violent Communication I've gained in my spare time, or a strong sense of clean and readable code being at the core of my development practice, the ability to communicate with others has been crucial to my career so far. As a result, I've been able to work effectively with other engineers, listen and engage with colleagues and users, and write code that creates value while making sense.
+
+Before becoming a software engineer, at Radish Fiction I was personally responsible for on-boarding and managing the most successful writer on the platform, among many others, with the CEO trusting that I could handle the egos that come with talent. As a freelance web designer and developer, maintaining good relationships with clients was paramount for earning repeat business.
+
+> "We are thrilled and it has been painless, which is not normally the way."
+
+<p style="text-align: right;"><em> - Sarah MacDonald, Founding Director of <a href="http://www.makewaves.media/who-we-are/">Make Waves Media</a></em></p>
+
 
  ## <a name="personal_projects"> Personal Projects</a>
 
@@ -35,31 +60,6 @@ Some of the projects I was proudest of during my time at Makers, listed in chron
  | [Beatroute](https://github.com/AlexJukes/beatroute) | Single page web application which enables a user to generate a Spotify playlist based on the country selection of their choice. | JavaScript, jQuery, Node JS, APIs, OOD, TDD|
  | [Gilded Rose Kata](https://github.com/AlexJukes/GildedRose-Refactoring-Kata) | A Ruby solution to The Gilded Rose kata, refactoring a client's legacy code to preserve existing functionality and allow for simple extendability. | Ruby, OOD, TDD |
  | [Makers Society](https://github.com/UltimateCoder00/Makers-Society) | An Ethereum-based blockchain application that allows citizens to send native crypto-currency to other members and vote in a participatory democracy. | Ethereum, Solidity, Truffle, Mocha/Chai, Node JS, React, MetaMask |
-
-
-## <a name="skills"> Skills </a>
-
-#### Innovation
-
-While at TES, I have consistently advocated for new ideas and technology, and haven't been afraid to question existing implementations. After doing extensive research, experiementing with the technology in my free time, and making a detailed case to my team, I was able to successfully lobby to move from a Redux Saga and Redux Form frontend to a GraphQL and Apollo Client, which we estimate will remove over 2000 lines of code from our frontend codebase. I have also won multiple TES hackdays, including a project that added a feature to the TES Jobs Mobile app which saw a 30% increase in DAU day on day for the first week after impelmentation.
-
-While at Makers Academy, I successfully pitched and led a team to create [Makers Society](https://github.com/UltimateCoder00/Makers-Society), an Ethereum based blockchain application which allowed citizens to irrevocably sign a societal manifesto, send native crypto-currency to other members and vote in a participatory democracy.
-
-#### Ownership
-
-I take pride in my work, and the work of my team, and I'm always ready to help users understand and use our products better. That's why within 6 months joining TES I was made Project Parent of my team, making me responsible for creating and managing our team's tickets, running retros, amd being the bridge between the engineers, the product manager and the users of our application.
-
-I also started and regularly facilitate a weekly meditation session open to all members of the TES company.
-
-#### Communication
-
-Good communication in software engineering comes in may forms. Whether it's the solid grounding in Emotional Intelligence and XP programming principles I learned at Makers, the Foundation Qualification in Non-Violent Communication I've gained in my spare time, or a strong sense of clean and readable code being at the core of my development practice, the ability to communicate with others has been crucial to my career so far. As a result, I've been able to work effectively with other engineers, listen and engage with colleagues and users, and write code that creates value while making sense.
-
-Before becoming a software engineer, at Radish Fiction I was personally responsible for on-boarding and managing the most successful writer on the platform, among many others, with the CEO trusting that I could handle the egos that come with talent. As a freelance web designer and developer, maintaining good relationships with clients was paramount for earning repeat business.
-
-> "We are thrilled and it has been painless, which is not normally the way."
-
-<p style="text-align: right;"><em> - Sarah MacDonald, Founding Director of <a href="http://www.makewaves.media/who-we-are/">Make Waves Media</a></em></p>
 
 ## <a name="education"> Education </a>
 
@@ -116,7 +116,7 @@ As part of a rapidly expanding online serial fiction app, I was responsible for 
 
 *Digital Marketing Executive*
 
-Part time role creating web content and design elements, as well as consulting on site redesign that increased conversion rates by over 200%.
+Full time role creating web content and design elements, as well as consulting on site redesign that increased conversion rates by over 200%.
 
 
 **Edelman** (April 2013 to July 2013)   
