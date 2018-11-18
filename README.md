@@ -1,30 +1,29 @@
 ## Alex Jukes
 
-[Skills](#skills) | [Makers Academy Projects](#makers_projects)| [Education](#education) | [Experience](#experience) | [Contact](#contact)
+[Softwate Experience](#software_experience) | [Skills](#skills) | [Makers Academy Projects](#makers_projects)| [Education](#education) | [Professional Experience](#pro_experience) | [Contact](#contact)
 
 As someone who passionately believes that big ideas can change the world, it's no surprise that I'm passionate about coding. Through code, abstract concepts become practical applications, translating our ideas into reality and changing peoples' lives.
 
-As a student at [Makers Academy](http://www.makersacademy.com/), I gained an incredible grounding in the fundamental principles of good software design, and learned not just how to code, but more importantly _how to learn how to code_. By the end of the course, I had learnt an entirely new language and technology to write and fully TDD a functioning [Ethereum blockchain application](https://github.com/UltimateCoder00/Makers-Society) within the space of 10 days. It's meant that as a Junior Developer at Softwire, I could start writing production code from day 1 of being put on a project, and was productive enough to be billable to the client in under 2 months. And when stepping in to be a coach for new learners joining the Softwire apprenticeship scheme, I was able to apply those OOD principles to a new language, C#, and break down the important concepts effectively enough to successfully coach students with their learning as well as contribute to course materials.
+Since graduating [Makers Academy](http://www.makersacademy.com/) in June 2017, I've grown rapidly into a well-rounded software engineer fluent in Node, React, and Redux. In my first role as a Junior Developer at Softwire, I could start writing production code from day 1 of being put on a project, and was productive enough to be billable to the client in under 2 months. At [TES](https://www.tes.com), the largest education news and resources platform in the UK, I've been an integral part of a small but growing team that has built a new internal advertising creation and management tool, delivering marketing campaigns to millions of users per day. I've also contributed to wider company, both professionally and personally, consistently evaluated as an Exceptional Performer, as well as being winning the Always Smiling award and running weekly meditation sessions. 
 
  I'm now looking to continue my journey in software development in a role where I can learn and grow both as a developer and as an individual, with a focus on Software Craftsmanship and XP values in a positive and inclusive workplace.
 
- ## <a name="pro_projects">Professional Projects</a>
+ ## <a name="software_experience">Software Experience</a>
 
- | Project | Summary | Technologies |
- |----------|----------|----------|
- | [HushKeys](https://hushkeys.com/) | Social media Progressive Web Application, where users can conceal and reveal content based on what permissions ('keys') they have access to. | React, Redux, TypeScript, Jest, Node.js |
- | [Corndel Apprenticeship Scheme](https://www.corndel.com/software-engineering-academy/) | Coaching students through a software apprenticeship scheme, focused on .NET applications and Clean Code principles | C#, ASP.NET Web API, MVC, MySQL |
-
+ | Company | Role | Dates | Summary | Technologies |
+ |----------|----------|----------| ----------|---------|
+ | [TES](https://www.tes.com)| Associate Engineer | November 2017- Present | Developed new internal advertising tool from the ground up, which now serves over a million campaigns a day to users  | React, Redux,  Node.js, MySQL, GraphQL, React Native |
+ | [Softwire](https://www.softwire.com/) | Junior Developer | June 2017 - November 2017  | Part of a full stack web development team creating a progressive web version of a successful new social media iOS application. | React, Redux, TypeScript, Jest, Node.js |
+ | [Makers Academy](http://www.makersacademy.com/) | Student | February 2017 - June 2017  | Intensive coding bootcamp focusing on software craftsmanship and XP Programming principles | Ruby, Javascript, Ruby on Rails, React |
+ 
 
 ## <a name="makers_projects">Makers Academy Projects</a>
 
-All projects listed in chronological order to demonstrate the progress made over the course.
+Some of the projects I was proudest of during my time at Makers, listed in chronological order to demonstrate the progress made over the course.
 
  | Project | Summary | Technologies |
  |----------|----------|----------|
  | [Takeaway Challenge](https://github.com/AlexJukes/takeaway-challenge) | Ruby program which allows users to select multiple dishes from a menu, confirm their selection, place their order and receive a confirmation text message. | Ruby, ODD, TDD, Twilio API |
- | [Rock Paper Scissors Challenge](https://github.com/AlexJukes/rps-challenge) | A simple Sinatra-based web app which allow a player to play a game of Rock Paper Scissors against a computer opponent. | Ruby, Sinatra, OOD, TDD|
- | [Chitter Challenge](https://github.com/AlexJukes/chitter-challenge) | A Sinatra-based Twitter clone called Message in a Bottle, where users can post messages ('bottles') in the hope that other lonely souls will see them. | Ruby, Sinatra, PSQL, OOD, TDD|
  | [Instagram Challenge](https://github.com/AlexJukes/instagif) | A Rails-based Instagram clone called Instagif, which uses the GIPHY API to allow users to generate gifs based on the users input. | Ruby, Rails, OOD, TDD, PSQL, GIPHY API|
  | [Beatroute](https://github.com/AlexJukes/beatroute) | Single page web application which enables a user to generate a Spotify playlist based on the country selection of their choice. | JavaScript, jQuery, Node JS, APIs, OOD, TDD|
  | [Gilded Rose Kata](https://github.com/AlexJukes/GildedRose-Refactoring-Kata) | A Ruby solution to The Gilded Rose kata, refactoring a client's legacy code to preserve existing functionality and allow for simple extendability. | Ruby, OOD, TDD |
@@ -35,7 +34,7 @@ All projects listed in chronological order to demonstrate the progress made over
 
 #### Communication
 
-Communication is fundamental to any good software design. Whether communicating with clients to understand the needs of the product, communicating with your team to conceive and create that product, or communicating the decisions and processes that shaped it to future developers through the design of the code itself, communication is the first step towards making an idea a reality.
+Communication is fundamental to any good software design. Whether communicating with clients to understand the needs of the product, communicating with your team to conceive and create that product, or communicating the decisions and processes that shaped it to future developers through the design of the code itself, communication is crucial to making an idea into a reality.
 
 With a background as Head of Content Strategy for the successful start-up [Radish Fiction](https://www.radishfiction.com/) and experience as a freelance web designer, I have the ability to communicate ideas about technology to hundreds of thousands of users or individual clients in written, verbal and visual form.
 
@@ -83,7 +82,7 @@ Skills include:
 - Captained St Hugh's College 3rd's Football Team
 
 
-## <a name="experience"> Experience </a>
+## <a name="pro_experience"> Professional Experience </a>
 
 **Freelance** (June 2014 to present)   
 
@@ -131,4 +130,4 @@ Responsible for day to day management of the art studio of internationally accla
 
 ## <a name="contact"> Contact  </a>
 
-Don't hesitate to get in touch with me  on [LinkedIn](https://www.linkedin.com/in/alex-jukes/) if you're looking for a Junior Developer with a passion for big ideas, love of technology and a commitment to Software Craftsmanship!
+Don't hesitate to get in touch with me  on [LinkedIn](https://www.linkedin.com/in/alex-jukes/) if you're looking for a Software Engineer with a passion for big ideas, love of technology and a commitment to Software Craftsmanship!
