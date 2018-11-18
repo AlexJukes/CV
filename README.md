@@ -1,10 +1,12 @@
 ## Alex Jukes
 
-[Softwate Experience](#software_experience) | [Skills](#skills) | [Personal Projects](#personal_projects) | [Makers Academy Projects](#makers_projects)| [Education](#education) | [Professional Experience](#pro_experience) | [Contact](#contact)
+[Softwate Experience](#software_experience) | [Skills](#skills) | [Personal Projects](#personal_projects) | [Makers Academy Projects](#makers_projects)  [Education](#education) | [Professional Experience](#pro_experience) | [Contact](#contact)
 
 As someone who passionately believes that big ideas can change the world, it's no surprise that I'm passionate about coding. Through code, abstract concepts become practical applications, translating our ideas into reality and changing peoples' lives.
 
-Since graduating [Makers Academy](http://www.makersacademy.com/) in June 2017, I've grown rapidly into a well-rounded software engineer fluent in Node, React, and Redux. In my first role as a Junior Developer at [Softwire](https://www.softwire.com/), I started writing production code from day one of being put on a project, and was productive enough to be billable to the client in under two months. At [TES](https://www.tes.com), the largest education news and resources platform in the UK, I've been an integral part of a small but growing team that has built a new internal advertising management tool, delivering marketing campaigns to millions of users per day. I've also contributed to wider company, both professionally and personally, consistently evaluated as an Exceptional Performer, as well as winning the Always Smiling award and running weekly meditation sessions. 
+Since graduating [Makers Academy](http://www.makersacademy.com/) in June 2017, I've grown rapidly into a well-rounded software engineer fluent in Node, React, and Redux.
+
+In my first role as a Junior Developer at [Softwire](https://www.softwire.com/), I started writing production code from day one of being put on a project, and was productive enough to be billable to the client in under two months. At [TES](https://www.tes.com), the largest education news and resources platform in the UK, I've been an integral part of a small but growing team that has built a new internal advertising management tool, delivering marketing campaigns to millions of users per day. I've also contributed to wider company, both professionally and personally, consistently evaluated as an Exceptional Performer, as well as winning the Always Smiling award and running weekly meditation sessions.
 
  I'm now ready to take the next step in my software development career. I'm looking for a role where I can learn and grow both as a developer and as an individual, taking greater ownership of the products I create in a positive and inclusive workplace.
 
@@ -39,13 +41,13 @@ Some of the projects I was proudest of during my time at Makers, listed in chron
 
 #### Innovation
 
-While at TES, I have consistently advocated for new ideas and technology, and haven't been afraid to question existing implementations. After doing extensive research, experiementing with the technology in my free time, and making a detailed case to my team, I was able to successfully lobby to move from a Redux Saga and Redux Form frontend to a GraphQL and Apollo Client, which we estimate will remove over 2000 lines of code from our frontend codebase. I have also won multiple TES hackdays, including a project that added a feature to the TES Jobs Mobile app which saw a 30% increase in DAU day on day for the first week after implmentation.
+While at TES, I have consistently advocated for new ideas and technology, and haven't been afraid to question existing implementations. After doing extensive research, experiementing with the technology in my free time, and making a detailed case to my team, I was able to successfully lobby to move from a Redux Saga and Redux Form frontend to a GraphQL and Apollo Client, which we estimate will remove over 2000 lines of code from our frontend codebase. I have also won multiple TES hackdays, including a project that added a feature to the TES Jobs Mobile app which saw a 30% increase in DAU day on day for the first week after impelmentation.
 
-While at Makers Academy, I successfully pitched and led a team to create an Ethereum based blockchain application, which allowed citizens to irrevocably sign a societal manifesto, send native crypto-currency to other members and vote in a participatory democracy. 
+While at Makers Academy, I successfully pitched and led a team to create [Makers Society](https://github.com/UltimateCoder00/Makers-Society), an Ethereum based blockchain application which allowed citizens to irrevocably sign a societal manifesto, send native crypto-currency to other members and vote in a participatory democracy.
 
 #### Ownership
 
-I take pride in my work, and the work of my team, and I'm always ready to help users utilise and understand our products better. That's why within 6 months joining TES I was made Project Parent of my team, making me responsible for creating and managing our team's tickets, running retros, amd being the bridge between the engineers, the product manager and the users of our application.
+I take pride in my work, and the work of my team, and I'm always ready to help users understand and use our products better. That's why within 6 months joining TES I was made Project Parent of my team, making me responsible for creating and managing our team's tickets, running retros, amd being the bridge between the engineers, the product manager and the users of our application.
 
 I also started and regularly facilitate a weekly meditation session open to all members of the TES company.
 
