@@ -14,7 +14,7 @@ In my first role as a Junior Developer at [Softwire](https://www.softwire.com/),
 
  | Company | Role | Dates | Summary | Technologies |
  |----------|----------|----------| ----------|---------|
- | [TES](https://www.tes.com)| Associate Engineer | November 2017- Present | Developed new internal advertising tool from the ground up, which now serves over a million campaigns a day to users. | React, Redux,  Node.js, MySQL, GraphQL, React Native |
+ | [TES](https://www.tes.com)| Associate Engineer | November 2017- Present | Developed new internal advertising tool from the ground up, which now serves over a million campaigns a day to users. | React, Redux,  Node.js, MySQL, Docker, GraphQL, React Native |
  | [Softwire](https://www.softwire.com/) | Junior Developer | June 2017 - November 2017  | Part of a full stack web development team creating a progressive web version of a successful new social media iOS application. | React, Redux, TypeScript, Jest, Node.js |
  | [Makers Academy](http://www.makersacademy.com/) | Student | February 2017 - June 2017  | Intensive coding bootcamp focusing on software craftsmanship and XP Programming principles. | Ruby, Javascript, Ruby on Rails, React |
 
