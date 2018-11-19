@@ -1,10 +1,6 @@
 ## Alex Jukes
 
-[Software Experience](#software_experience) | [Skills](#skills) 
-
-[Personal Projects](#personal_projects) | [Makers Academy Projects](#makers_projects)
-
-[Education](#education) | [Professional Experience](#pro_experience) | [Contact](#contact)
+[Software Experience](#software_experience) | [Skills](#skills) | [Personal Projects](#personal_projects) | [Makers Academy Projects](#makers_projects) | [Education](#education) | [Professional Experience](#pro_experience) | [Contact](#contact)
 
 As someone who passionately believes that big ideas can change the world, it's no surprise that I'm passionate about coding. Through code, abstract concepts become practical applications, translating our ideas into reality and changing peoples' lives.
 
