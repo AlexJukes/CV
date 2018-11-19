@@ -96,7 +96,6 @@ Web design while based in Melbourne, Australia and London, UK.
 
 - [www.thamesyouthorchestra.co.uk](http://www.thamesyouthorchestra.co.uk/)
 - [www.claribellondon.com](http:www.claribellondon.com)
-- [www.make-entertainment.com](http:www.make-entertainment.com)
 - [www.makewaves.media](http:www.makewaves.media)
 - [www.boyeatsworld.com](http:www.boyeatsworld.com.au)
 
