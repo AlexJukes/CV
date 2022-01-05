@@ -26,15 +26,17 @@
 
 #### Innovation
 
-While at TES, I have consistently advocated for new ideas and technology, and haven't been afraid to question existing implementations. After doing extensive research, experiementing with the technology in my free time, and making a detailed case to my team, I was able to successfully lobby to move from a Redux Saga and Redux Form frontend to a GraphQL and Apollo Client, which we estimate will remove over 2000 lines of code from our frontend codebase. I have also won multiple TES hackdays, including a project that added a feature to the TES Jobs Mobile app which saw a 30% increase in DAU day on day for the first week after implementation.
+At Kooth, I have been instrumental in implementing a [micro frontend achitectural pattern](https://martinfowler.com/articles/micro-frontends.html), improving client-side performance and user experience as well as opening up much greater flexibility and possibilities of page composition. I have also spearheaded efforts to replace the legacy CMS system with [Contentful](https://www.contentful.com/), delivering new features to service users and the content team while simultaneously reducing tech debt.
+
+At TES, I won multiple TES hackdays, including a project that added a feature to the TES Jobs Mobile app which saw a 30% increase in DAU day on day for the first week after implementation.
 
 While at Makers Academy, I successfully pitched and led a team to create [Makers Society](https://github.com/UltimateCoder00/Makers-Society), an Ethereum based blockchain application which allowed citizens to irrevocably sign a societal manifesto, send native crypto-currency to other members and vote in a participatory democracy.
 
 #### Ownership
 
-I take pride in my work, and the work of my team, and I'm always ready to help users understand and use our products better. That's why within 6 months of joining TES I was made Project Parent of my team, making me responsible for creating and managing our team's tickets, running retros, and being the bridge between the engineers, the product manager and the users of our application.
+I take pride in my work, and the work of my team, and I'm always ready to lead the way in helping users understand and use our products better. At Kooth, I was promoted to Senior Software Engineer and Technical Product Owner of my team a year after joining as a mid level Engineer. Within 6 months of joining TES I was made Project Parent of my team, making me responsible for creating and managing our team's tickets, running retros, and being the bridge between the engineers, the product manager and the users of our application.
 
-I also started and regularly facilitate a weekly meditation session open to all members of the TES company.
+At Kooth and TES, I also regularly facilitated a weekly meditation session open to all members of the company.
 
 #### Communication
 
