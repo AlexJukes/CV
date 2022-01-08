@@ -26,7 +26,7 @@
 
 #### Innovation
 
-At Kooth, I have been instrumental in implementing a [micro frontend achitectural pattern](https://martinfowler.com/articles/micro-frontends.html), improving client-side performance and user experience as well as opening up much greater flexibility and possibilities of page composition. I have also spearheaded efforts to replace the legacy CMS system with [Contentful](https://www.contentful.com/), delivering new features to service users and the content team while simultaneously reducing tech debt.
+At Kooth, I have been instrumental in implementing a [micro frontend achitectural pattern](https://martinfowler.com/articles/micro-frontends.html), improving client-side performance and user experience, as well as opening up much greater flexibility and possibilities of page composition. I was also integral to the redesign and re-architecture of Kooth's chat and messaging features. This required rebuilding the core product of the company's service from scratch to make it more robust, performant and easy to work with. I have also spearheaded efforts to replace the legacy CMS system with [Contentful](https://www.contentful.com/), delivering new features to service users and the content team while simultaneously reducing tech debt.
 
 At TES, I won multiple TES hackdays, including a project that added a feature to the TES Jobs Mobile app which saw a 30% increase in DAU day on day for the first week after implementation.
 
@@ -34,13 +34,15 @@ While at Makers Academy, I successfully pitched and led a team to create [Makers
 
 #### Ownership
 
-I take pride in my work, and the work of my team, and I'm always ready to lead the way in helping users understand and use our products better. At Kooth, I was promoted to Senior Software Engineer and Technical Product Owner of my team a year after joining as a mid level Engineer. Within 6 months of joining TES I was made Project Parent of my team, making me responsible for creating and managing our team's tickets, running retros, and being the bridge between the engineers, the product manager and the users of our application.
+I take pride in my work, and the work of my team, and I'm always ready to lead the way in helping users understand and use our products better. At Kooth, I was promoted to Senior Software Engineer and Technical Product Owner of my team one year after joining as a mid level Engineer. I've been responsible for crafting and delivering a technical vision for the intergrated care aspect of the product, delivering important features while also modernising the codebase, such as introducing the use of cloud functions and replacing legacy CMS systems with more appropriate 3rd party solutions. 
 
-At Kooth and TES, I also regularly facilitated a weekly meditation session open to all members of the company.
+Within 6 months of joining TES I was made Project Parent of my team, making me responsible for creating and managing our team's tickets, running retros, and being the bridge between the engineers, the product manager and the users of our application.
+
+At both Kooth and TES, I also regularly facilitated a weekly meditation session open to all members of the company.
 
 #### Communication
 
-Good communication in software engineering comes in many forms. Whether it's the solid grounding in Emotional Intelligence and XP programming principles I learned at Makers, the Foundation Qualification in Non-Violent Communication I've gained in my spare time, or a strong sense of clean and readable code being at the core of my development practice, the ability to communicate with others has been crucial to my career so far. As a result, I've been able to work effectively with other engineers, listen and engage with colleagues and users, and write code that creates value while making sense.
+Good communication in software engineering comes in many forms. Whether it's the solid grounding in Emotional Intelligence and XP programming principles I learned at Makers, the Foundation Qualification in Non-Violent Communication I've gained in my spare time, or a strong sense of clean and readable code being at the core of my development practice, the ability to communicate with others has been crucial to my career so far. As a result, I've been able to both lead and work effectively with other engineers, listen and engage with colleagues and users, and write code that creates value while making sense.
 
 Before becoming a software engineer, at Radish Fiction I was personally responsible for on-boarding and managing the most successful writer on the platform, among many others, with the CEO trusting that I could handle the egos that come with talent. As a freelance web designer and developer, maintaining good relationships with clients was paramount for earning repeat business.
 
