@@ -10,6 +10,7 @@
 - Extensive experience with React and frontend architecture ⚡️
 - Solid grounding in Node, SQL databases, GCP infrastructure 🛠
 - Qualified in Non Violent Communication 🗣
+- Trained Mental Health First Aider ⛑
 - Tai Chi and Qi Gong practitioner ☯️
 
 
