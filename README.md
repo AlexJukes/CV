@@ -57,7 +57,6 @@ Before becoming a software engineer, at Radish Fiction I was personally responsi
   | Project | Summary | Technologies |
  |----------|----------|----------|
   | [AlexJukes.com](https://www.alexjukes.com) | Svelte frontend app exploring the idea of eusocial media | Svelte, Javascript |
-
  | [Slingshot](https://github.com/AlexJukes/slingshot) | A Unity mobile physics based game where players must flow with universal forces to find their way home. | Unity, C#, Xcode |
 
 ## <a name="education"> Education </a>
