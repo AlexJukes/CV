@@ -8,7 +8,7 @@
 
 - Tech Lead and Senior Software Engineer - Full stack Javascript and Typescript 🧑‍💻
 - Extensive experience with React and frontend architecture ⚡️
-- Solid grounding in Node, SQL databases, GCP infrastructure 🛠
+- Fluent in Node, SQL and NoSQL databases, GCP infrastructure 🛠
 - Qualified in Non Violent Communication 🗣
 - Trained Mental Health First Aider ⛑
 - Tai Chi and Qi Gong practitioner ☯️
@@ -18,7 +18,7 @@
 
  | Company | Role | Dates | Summary | Technologies |
  |----------|----------|----------| ----------|---------|
- | [Kooth](https://www.koothplc.com)| Tech Lead and Senior Software Engineer | October 2019 - Present | Overhauled frontend architecture to use an advanced Micro Frontend pattern, spearheaded integration of new CMS platform | React, Typesscript, Node.js, MySQL, Azure, GCP, Google Cloud Functions |
+ | [Kooth](https://www.koothplc.com)| Tech Lead and Senior Software Engineer | October 2019 - Present | Responsible for migration and integration of business critical backend functionality to 3rd party software, overhauled frontend architecture to use an advanced Micro Frontend pattern, spearheaded integration of new CMS platform | React, Typesscript, Node.js, MySQL, Azure, GCP, Google Cloud Functions |
  | [TES](https://www.tes.com)| Associate Engineer | November 2017- October 2019 | Developed new internal advertising tool from the ground up, which now serves over a million campaigns a day to users. | React, Redux,  Node.js, MySQL, Docker, GraphQL, React Native |
  | [Softwire](https://www.softwire.com/) | Junior Developer | June 2017 - November 2017  | Part of a full stack web development team creating a progressive web version of a successful new social media iOS application. | React, Redux, TypeScript, Jest, Node.js |
  | [Makers Academy](http://www.makersacademy.com/) | Student | February 2017 - June 2017  | Intensive coding bootcamp focusing on software craftsmanship and XP Programming principles. | Ruby, Javascript, Ruby on Rails, React |
